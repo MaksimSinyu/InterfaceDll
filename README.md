@@ -1,4 +1,4 @@
-# DllInterface
+# InterfaceDll
 ## The simple interface for working with DLL in dynamic style.
 
 ### In the project exists 2 solution for demonstration the class work
